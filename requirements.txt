@@ -1,0 +1,4 @@
+datasets==2.21.0
+langchain_community==0.2.12
+requests==2.25.1
+tqdm==4.66.5

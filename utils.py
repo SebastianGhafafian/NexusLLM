@@ -29,7 +29,6 @@ def execute_sql(sql: str, database_path: str):
     Runs SQL code for the given schema and database. Make sure to properly leverage the schema to answer the user's question in the best way possible. 
     Pay attention to use only the the column names of that belong to a table which are described in the schema description.
     Be careful to not query for columns that do not exist. Also, pay attention to which column is in which table.
-
     
     Args:
         sql: SQL code to run
