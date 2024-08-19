@@ -1,10 +1,5 @@
 # NexusLLM for Text-to-SQL
 
-
-<p float="left">
-  <img src="./img/flowchart.png" width="400" />
-</p>
-
 # :memo: Description
 
 Nowadays, the world revolves around data. We created elaborate infrastructures, namely databases, to interact with the data in efficient ways. Yet, this requires more sophisticates techniques like mastering SQL access the data, which locks away information for people that lack knowledge of SQL. Currently, Large Language Models (LLMs) are becomming more and more popluar for interaction with databases enabling everyone to gain insights using the databases content. This short project looks into LLMs how they can call function by providing precise arguments helping to to interact with databases. 
