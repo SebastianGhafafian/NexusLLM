@@ -2,7 +2,7 @@
 
 # :memo: Description
 
-Nowadays, the world revolves around data. We created elaborate infrastructures, namely databases, to interact with the data in efficient ways. Yet, this requires more sophisticates techniques like mastering SQL access the data, which locks away information for people that lack knowledge of SQL. Currently, Large Language Models (LLMs) are becomming more and more popluar for interaction with databases enabling everyone to gain insights using the databases content. This short project looks into LLMs how they can call function by providing precise arguments helping to to interact with databases. 
+Nowadays, the world revolves around data. We created elaborate infrastructures, namely databases, to interact with the data in efficient ways. Yet, this requires more sophisticates techniques like mastering SQL access the data, which locks away information for people that lack knowledge of SQL. Currently, Large Language Models (LLMs) are becoming more and more popluar for interaction with databases enabling everyone to gain insights using the databases content. This project looks into LLMs and how they can call functions by providing precise arguments helping to to interact with databases. 
 This project has two parts:
 * First, I'll let a LLM interact with a dataset generating features like a sentiment of a dialogue and names of involved persons. It uses the LLM capabilty of function calling to built a dialgue processing system. 
 * The second part explores the ability of an LLM to interact with databases by creating increasingly more complex question and analyzing typical hallucinations.
